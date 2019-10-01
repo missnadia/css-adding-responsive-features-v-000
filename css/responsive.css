@@ -10,3 +10,18 @@
     right: 4px;
   }
 }
+
+@media only screen (max-width: 900px) {
+  body {
+    font-size: 85%;
+  }
+  
+  #logo {
+      h1 {
+      position: absolute;
+      width: auto;
+      top: 82px;
+      right: 4px;
+    }
+  }
+}
