@@ -16,10 +16,8 @@
     font-size: 85%;
   }
   
-  #logo {
-      h1 {
-      height: ;
-      width: auto;
-    }
+  #logo h1 {
+    height: ;
+    width: auto;
   }
 }
